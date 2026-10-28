@@ -1,0 +1,10 @@
+# Preserve the bytes covered by SHA256SUMS on every platform.
+/gen_bb_memory.py -text
+/verify_stim.py -text
+/verify_transcription.py -text
+/witness_*.json -text
+
+*.md text eol=lf
+*.txt text eol=lf
+/verify.py text eol=lf
+/SHA256SUMS text eol=lf

@@ -1,0 +1,583 @@
+{
+ "sector": "X",
+ "R": 18,
+ "n_faults": 16,
+ "faults": [
+  {
+   "cycle": 5,
+   "round": 5,
+   "pauli": "X",
+   "qubits": [
+    298
+   ],
+   "bravyi": {
+    "position_in_cycle_repeated": 16128,
+    "op_index_in_cycle": 1728,
+    "gate": [
+     "CNOT",
+     [
+      "data_right",
+      10
+     ],
+     [
+      "Zcheck",
+      0
+     ]
+    ],
+    "error": [
+     "X",
+     [
+      "data_right",
+      10
+     ]
+    ],
+    "error_inserted": "after gate"
+   },
+   "cnot": [
+    298,
+    432
+   ],
+   "cx_layer": 40
+  },
+  {
+   "cycle": 5,
+   "round": 4,
+   "pauli": "X",
+   "qubits": [
+    2
+   ],
+   "bravyi": {
+    "position_in_cycle_repeated": 15698,
+    "op_index_in_cycle": 1298,
+    "gate": [
+     "CNOT",
+     [
+      "Xcheck",
+      2
+     ],
+     [
+      "data_right",
+      26
+     ]
+    ],
+    "error": [
+     "X",
+     [
+      "Xcheck",
+      2
+     ]
+    ],
+    "error_inserted": "after gate"
+   },
+   "cnot": [
+    2,
+    314
+   ],
+   "cx_layer": 39
+  },
+  {
+   "cycle": 5,
+   "round": 5,
+   "pauli": "X",
+   "qubits": [
+    294
+   ],
+   "bravyi": {
+    "position_in_cycle_repeated": 16136,
+    "op_index_in_cycle": 1736,
+    "gate": [
+     "CNOT",
+     [
+      "data_right",
+      6
+     ],
+     [
+      "Zcheck",
+      8
+     ]
+    ],
+    "error": [
+     "X",
+     [
+      "data_right",
+      6
+     ]
+    ],
+    "error_inserted": "after gate"
+   },
+   "cnot": [
+    294,
+    440
+   ],
+   "cx_layer": 40
+  },
+  {
+   "cycle": 5,
+   "round": 5,
+   "pauli": "X",
+   "qubits": [
+    397
+   ],
+   "bravyi": {
+    "position_in_cycle_repeated": 16239,
+    "op_index_in_cycle": 1839,
+    "gate": [
+     "CNOT",
+     [
+      "data_right",
+      109
+     ],
+     [
+      "Zcheck",
+      111
+     ]
+    ],
+    "error": [
+     "X",
+     [
+      "data_right",
+      109
+     ]
+    ],
+    "error_inserted": "after gate"
+   },
+   "cnot": [
+    397,
+    543
+   ],
+   "cx_layer": 40
+  },
+  {
+   "cycle": 5,
+   "round": 4,
+   "pauli": "X",
+   "qubits": [
+    101
+   ],
+   "bravyi": {
+    "position_in_cycle_repeated": 15797,
+    "op_index_in_cycle": 1397,
+    "gate": [
+     "CNOT",
+     [
+      "Xcheck",
+      101
+     ],
+     [
+      "data_right",
+      125
+     ]
+    ],
+    "error": [
+     "X",
+     [
+      "Xcheck",
+      101
+     ]
+    ],
+    "error_inserted": "after gate"
+   },
+   "cnot": [
+    101,
+    413
+   ],
+   "cx_layer": 39
+  },
+  {
+   "cycle": 5,
+   "round": 4,
+   "pauli": "X",
+   "qubits": [
+    113
+   ],
+   "bravyi": {
+    "position_in_cycle_repeated": 15809,
+    "op_index_in_cycle": 1409,
+    "gate": [
+     "CNOT",
+     [
+      "Xcheck",
+      113
+     ],
+     [
+      "data_right",
+      137
+     ]
+    ],
+    "error": [
+     "X",
+     [
+      "Xcheck",
+      113
+     ]
+    ],
+    "error_inserted": "after gate"
+   },
+   "cnot": [
+    113,
+    425
+   ],
+   "cx_layer": 39
+  },
+  {
+   "cycle": 5,
+   "round": 4,
+   "pauli": "X",
+   "qubits": [
+    134
+   ],
+   "bravyi": {
+    "position_in_cycle_repeated": 15830,
+    "op_index_in_cycle": 1430,
+    "gate": [
+     "CNOT",
+     [
+      "Xcheck",
+      134
+     ],
+     [
+      "data_right",
+      14
+     ]
+    ],
+    "error": [
+     "X",
+     [
+      "Xcheck",
+      134
+     ]
+    ],
+    "error_inserted": "after gate"
+   },
+   "cnot": [
+    134,
+    302
+   ],
+   "cx_layer": 39
+  },
+  {
+   "cycle": 5,
+   "round": 5,
+   "pauli": "X",
+   "qubits": [
+    405
+   ],
+   "bravyi": {
+    "position_in_cycle_repeated": 16247,
+    "op_index_in_cycle": 1847,
+    "gate": [
+     "CNOT",
+     [
+      "data_right",
+      117
+     ],
+     [
+      "Zcheck",
+      119
+     ]
+    ],
+    "error": [
+     "X",
+     [
+      "data_right",
+      117
+     ]
+    ],
+    "error_inserted": "after gate"
+   },
+   "cnot": [
+    405,
+    551
+   ],
+   "cx_layer": 40
+  },
+  {
+   "cycle": 5,
+   "round": 4,
+   "pauli": "X",
+   "qubits": [
+    35
+   ],
+   "bravyi": {
+    "position_in_cycle_repeated": 15731,
+    "op_index_in_cycle": 1331,
+    "gate": [
+     "CNOT",
+     [
+      "Xcheck",
+      35
+     ],
+     [
+      "data_right",
+      59
+     ]
+    ],
+    "error": [
+     "X",
+     [
+      "Xcheck",
+      35
+     ]
+    ],
+    "error_inserted": "after gate"
+   },
+   "cnot": [
+    35,
+    347
+   ],
+   "cx_layer": 39
+  },
+  {
+   "cycle": 5,
+   "round": 5,
+   "pauli": "X",
+   "qubits": [
+    331
+   ],
+   "bravyi": {
+    "position_in_cycle_repeated": 16173,
+    "op_index_in_cycle": 1773,
+    "gate": [
+     "CNOT",
+     [
+      "data_right",
+      43
+     ],
+     [
+      "Zcheck",
+      45
+     ]
+    ],
+    "error": [
+     "X",
+     [
+      "data_right",
+      43
+     ]
+    ],
+    "error_inserted": "after gate"
+   },
+   "cnot": [
+    331,
+    477
+   ],
+   "cx_layer": 40
+  },
+  {
+   "cycle": 5,
+   "round": 5,
+   "pauli": "X",
+   "qubits": [
+    327
+   ],
+   "bravyi": {
+    "position_in_cycle_repeated": 16169,
+    "op_index_in_cycle": 1769,
+    "gate": [
+     "CNOT",
+     [
+      "data_right",
+      39
+     ],
+     [
+      "Zcheck",
+      41
+     ]
+    ],
+    "error": [
+     "X",
+     [
+      "data_right",
+      39
+     ]
+    ],
+    "error_inserted": "after gate"
+   },
+   "cnot": [
+    327,
+    473
+   ],
+   "cx_layer": 40
+  },
+  {
+   "cycle": 5,
+   "round": 4,
+   "pauli": "X",
+   "qubits": [
+    47
+   ],
+   "bravyi": {
+    "position_in_cycle_repeated": 15743,
+    "op_index_in_cycle": 1343,
+    "gate": [
+     "CNOT",
+     [
+      "Xcheck",
+      47
+     ],
+     [
+      "data_right",
+      71
+     ]
+    ],
+    "error": [
+     "X",
+     [
+      "Xcheck",
+      47
+     ]
+    ],
+    "error_inserted": "after gate"
+   },
+   "cnot": [
+    47,
+    359
+   ],
+   "cx_layer": 39
+  },
+  {
+   "cycle": 5,
+   "round": 4,
+   "pauli": "X",
+   "qubits": [
+    68
+   ],
+   "bravyi": {
+    "position_in_cycle_repeated": 15764,
+    "op_index_in_cycle": 1364,
+    "gate": [
+     "CNOT",
+     [
+      "Xcheck",
+      68
+     ],
+     [
+      "data_right",
+      92
+     ]
+    ],
+    "error": [
+     "X",
+     [
+      "Xcheck",
+      68
+     ]
+    ],
+    "error_inserted": "after gate"
+   },
+   "cnot": [
+    68,
+    380
+   ],
+   "cx_layer": 39
+  },
+  {
+   "cycle": 5,
+   "round": 5,
+   "pauli": "X",
+   "qubits": [
+    360
+   ],
+   "bravyi": {
+    "position_in_cycle_repeated": 16202,
+    "op_index_in_cycle": 1802,
+    "gate": [
+     "CNOT",
+     [
+      "data_right",
+      72
+     ],
+     [
+      "Zcheck",
+      74
+     ]
+    ],
+    "error": [
+     "X",
+     [
+      "data_right",
+      72
+     ]
+    ],
+    "error_inserted": "after gate"
+   },
+   "cnot": [
+    360,
+    506
+   ],
+   "cx_layer": 40
+  },
+  {
+   "cycle": 5,
+   "round": 5,
+   "pauli": "X",
+   "qubits": [
+    364
+   ],
+   "bravyi": {
+    "position_in_cycle_repeated": 16206,
+    "op_index_in_cycle": 1806,
+    "gate": [
+     "CNOT",
+     [
+      "data_right",
+      76
+     ],
+     [
+      "Zcheck",
+      78
+     ]
+    ],
+    "error": [
+     "X",
+     [
+      "data_right",
+      76
+     ]
+    ],
+    "error_inserted": "after gate"
+   },
+   "cnot": [
+    364,
+    510
+   ],
+   "cx_layer": 40
+  },
+  {
+   "cycle": 5,
+   "round": 4,
+   "pauli": "X",
+   "qubits": [
+    80
+   ],
+   "bravyi": {
+    "position_in_cycle_repeated": 15776,
+    "op_index_in_cycle": 1376,
+    "gate": [
+     "CNOT",
+     [
+      "Xcheck",
+      80
+     ],
+     [
+      "data_right",
+      104
+     ]
+    ],
+    "error": [
+     "X",
+     [
+      "Xcheck",
+      80
+     ]
+    ],
+    "error_inserted": "after gate"
+   },
+   "cnot": [
+    80,
+    392
+   ],
+   "cx_layer": 39
+  }
+ ]
+}

@@ -1,0 +1,216 @@
+{
+ "code": "two-gross-A23swap",
+ "sector": "X",
+ "R": 18,
+ "n_faults": 16,
+ "faults": [
+  {
+   "cycle": 5,
+   "round": 4,
+   "pauli": "X",
+   "qubits": [
+    14
+   ],
+   "cnot": [
+    14,
+    326
+   ],
+   "cx_layer": 39
+  },
+  {
+   "cycle": 5,
+   "round": 4,
+   "pauli": "X",
+   "qubits": [
+    35
+   ],
+   "cnot": [
+    35,
+    347
+   ],
+   "cx_layer": 39
+  },
+  {
+   "cycle": 5,
+   "round": 4,
+   "pauli": "X",
+   "qubits": [
+    56
+   ],
+   "cnot": [
+    56,
+    368
+   ],
+   "cx_layer": 39
+  },
+  {
+   "cycle": 5,
+   "round": 4,
+   "pauli": "X",
+   "qubits": [
+    65
+   ],
+   "cnot": [
+    65,
+    377
+   ],
+   "cx_layer": 39
+  },
+  {
+   "cycle": 5,
+   "round": 4,
+   "pauli": "X",
+   "qubits": [
+    86
+   ],
+   "cnot": [
+    86,
+    398
+   ],
+   "cx_layer": 39
+  },
+  {
+   "cycle": 5,
+   "round": 4,
+   "pauli": "X",
+   "qubits": [
+    107
+   ],
+   "cnot": [
+    107,
+    419
+   ],
+   "cx_layer": 39
+  },
+  {
+   "cycle": 5,
+   "round": 4,
+   "pauli": "X",
+   "qubits": [
+    128
+   ],
+   "cnot": [
+    128,
+    296
+   ],
+   "cx_layer": 39
+  },
+  {
+   "cycle": 5,
+   "round": 4,
+   "pauli": "X",
+   "qubits": [
+    137
+   ],
+   "cnot": [
+    137,
+    305
+   ],
+   "cx_layer": 39
+  },
+  {
+   "cycle": 5,
+   "round": 5,
+   "pauli": "X",
+   "qubits": [
+    288
+   ],
+   "cnot": [
+    288,
+    439
+   ],
+   "cx_layer": 40
+  },
+  {
+   "cycle": 5,
+   "round": 5,
+   "pauli": "X",
+   "qubits": [
+    292
+   ],
+   "cnot": [
+    292,
+    443
+   ],
+   "cx_layer": 40
+  },
+  {
+   "cycle": 5,
+   "round": 5,
+   "pauli": "X",
+   "qubits": [
+    330
+   ],
+   "cnot": [
+    330,
+    469
+   ],
+   "cx_layer": 40
+  },
+  {
+   "cycle": 5,
+   "round": 5,
+   "pauli": "X",
+   "qubits": [
+    334
+   ],
+   "cnot": [
+    334,
+    473
+   ],
+   "cx_layer": 40
+  },
+  {
+   "cycle": 5,
+   "round": 5,
+   "pauli": "X",
+   "qubits": [
+    360
+   ],
+   "cnot": [
+    360,
+    511
+   ],
+   "cx_layer": 40
+  },
+  {
+   "cycle": 5,
+   "round": 5,
+   "pauli": "X",
+   "qubits": [
+    364
+   ],
+   "cnot": [
+    364,
+    515
+   ],
+   "cx_layer": 40
+  },
+  {
+   "cycle": 5,
+   "round": 5,
+   "pauli": "X",
+   "qubits": [
+    402
+   ],
+   "cnot": [
+    402,
+    541
+   ],
+   "cx_layer": 40
+  },
+  {
+   "cycle": 5,
+   "round": 5,
+   "pauli": "X",
+   "qubits": [
+    406
+   ],
+   "cnot": [
+    406,
+    545
+   ],
+   "cx_layer": 40
+  }
+ ]
+}
